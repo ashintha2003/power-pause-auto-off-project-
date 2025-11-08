@@ -6,7 +6,7 @@ What makes this project unique is that it was developed **entirely using analog 
 
 The time duration before shutdown is **user-configurable** and is displayed using **two seven-segment displays**.
 
-- **Schematic Design**: Multisim
+- **Schematic Design**: LT spice, Multisim
 
   ## Image of the device transmitter and the reciever
 
